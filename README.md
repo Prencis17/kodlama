@@ -1,0 +1,2 @@
+# kodlama
+Kodlara ihtiyaç var 
